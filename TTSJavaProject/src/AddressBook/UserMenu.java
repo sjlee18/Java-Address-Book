@@ -194,7 +194,7 @@ public class UserMenu {
                             }
                             break;
                         } else {
-                            System.out.println("\nYOU GOTTA PICK 1-4 HOMIE\n");
+                            System.out.println("\nPICK 1-4 ONLY\n");
                         }
                         break;
                     case 4:
