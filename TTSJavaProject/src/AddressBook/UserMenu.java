@@ -234,8 +234,7 @@ public class UserMenu {
     }
     // BELOW STILL NEEDS TO BE IMPLEMENTED:
     // Emails need to be unique so for example User CANNOT enter same email as
-    // another user for add entry but all other inputs for gucci
+    // another user for add entry
     // put methods here instead of leaving them in the switch case
-    // some no records not displaying properly
 
 }
